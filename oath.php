@@ -3,7 +3,7 @@
 
 	header("Content-Type: text/html;charset=utf-8");
 	$appid = "wx23f0e6c4c375f363"; // 必须修改
-	$appsecret = "bebca887f323c779e1042d551ce8d00d"; // 必须修改
+	$appsecret = "1a0213fadd39e177f587174809ef6929"; // 必须修改
 	$noncestr = "Wm3WZYTPz0wzccnW";
 	$timestamp = "1464676595755";
 	$ipturl = $_SERVER["HTTP_REFERER"];
